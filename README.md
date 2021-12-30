@@ -36,15 +36,17 @@ REMOVING UNNECESSARY COLUMNS
 HYPERPARAMETER TUNING USING RANDOMIZED SEARCHCV
 MODEL SAVING
 CREATING VIRTUAL ENVIRONMENT IN PYCHARM
-CREATE A PROGRAM IN app.py FILE
-Create Website and Predict
+CREATE A PROGRAM IN app.py FILE.
+
+Develop Web and Predict
+END
                                                                                                        
-        END
+    
 																					 
 																					 
       
 [Artitecture.pdf](https://github.com/Sumit1234-eng/Thyroid_disease_detection/files/7792459/Artitecture.pdf)
 
 # Model Deployment
-The final model is deployed on Heroku using Flask framework.
+The final model is deployed on Pycharm using Flask framework.
  
