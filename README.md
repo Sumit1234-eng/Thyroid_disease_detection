@@ -32,15 +32,19 @@ LOGISTIC REGRESSION,RANDOM FOREST CLASSIFIER
                                       
 CHOOSE BEST MODEL AS RANDOM FOREST CLASSIFIER
 
-  
-                                                                                                                                                                             
-																					 REMOVING REMOVING UNNECESSARY COLUMNS
+REMOVING UNNECESSARY COLUMNS
 HYPERPARAMETER TUNING USING RANDOMIZED SEARCHCV
-      
 MODEL SAVING
 CREATING VIRTUAL ENVIRONMENT IN PYCHARM
 CREATE A PROGRAM IN app.py FILE
 Create Website and Predict
                                                                                                        
         END
+																					 
+																					 
+      
+[Artitecture.pdf](https://github.com/Sumit1234-eng/Thyroid_disease_detection/files/7792459/Artitecture.pdf)
+
+# Model Deployment
+The final model is deployed on Heroku using Flask framework.
  
