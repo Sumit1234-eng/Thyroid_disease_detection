@@ -18,33 +18,23 @@ Random Forest were all performed well. Random Forest classifier was chosen for t
 Hyper parameter tuning was performed using RandomizedSearchCV
 Model performance evaluated based on accuracy, confusion matrix, classification report.
 
-#
-                                                               ARTITECTURE
-      
-    START	
+# Artitecture	
                                 
-
 DATASET	
-
-
-	
 
 DATA PREPROCESSING	
 
 
 SPLIT THE DATASET
+HANDLE     IMBLANCED DATASET
+FEATURE SCALING
+LOGISTIC REGRESSION,RANDOM FOREST CLASSIFIER
                                       
 CHOOSE BEST MODEL AS RANDOM FOREST CLASSIFIER
-      HANDLE     IMBLANCED DATASET
-      FEATURE          SCALING
 
-LOGISTIC REGRESSION,RANDOM FOREST CLASSIFIER
   
-                                                                                                                                                                                                                                                                       
-
-
-   
-REMOVING UNNECESSARY COLUMNS
+                                                                                                                                                                             
+																					 REMOVING REMOVING UNNECESSARY COLUMNS
 HYPERPARAMETER TUNING USING RANDOMIZED SEARCHCV
       
 MODEL SAVING
