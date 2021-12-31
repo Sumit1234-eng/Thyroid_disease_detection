@@ -6,10 +6,14 @@ The main objective of this project is to predict if a person is having thyroid o
 # Problem Statement
 To build a classification methodology to predict the type of Thyroid based on the given training data.
 # Data Pre-processing
-Missing values handling 
+Missing values handling
+
 Categorical features handling by label encoding
+
 Feature scaling done by Standard Scalar method
+
 Imbalanced dataset handled by SMOTE
+
 Drop unnecessary columns
 
 # Model Creation and Evaluation
