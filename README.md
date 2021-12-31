@@ -43,7 +43,8 @@ CREATING VIRTUAL ENVIRONMENT IN PYCHARM
 CREATE A PROGRAM IN app.py FILE.
 
 Develop Web and Predict
-END
+
+End
                                                                                                        
     
 																					 
